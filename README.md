@@ -7,11 +7,13 @@ Now, why do we need this package on Galaxy. Microservices!
 
 # Usage
 
-`` meteor add gunjansoni:ddpconnector``
+```shell
+meteor add gunjansoni:ddpconnector
+```
 
 In your lib folder, somewhere use:
 
-```
+```javascript
 serverConnection = new DDPConnector("http://localhost:3000").getConnection();
 
 // Anywhere in Client or Server, use

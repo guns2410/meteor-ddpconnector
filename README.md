@@ -1,7 +1,7 @@
 # meteor-ddpconnector
 ## Connect Meteor Servers over DDP Connection (Works on Galaxy)
 
-If you have tried meteorhacks:cluster which is a great package, this package does not work on Galaxy.
+If you have tried meteorhacks:cluster which is a great package, it does not work on Galaxy.
 
 Now, why do we need this package on Galaxy. Microservices!
 

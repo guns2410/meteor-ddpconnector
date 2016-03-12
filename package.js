@@ -1,6 +1,6 @@
 Package.describe({
 	name         : 'gunjansoni:ddpconnector',
-	version      : '0.0.1',
+	version      : '0.1.0',
 	summary      : 'Connect Meteor Servers over DDP Connection (Works on Galaxy)',
 	git          : 'https://github.com/guns2410/meteor-ddpconnector',
 	documentation: 'README.md'
